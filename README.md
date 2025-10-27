@@ -15,7 +15,7 @@ npm install @nuvocode/nuvo-payment-sdk
 Add your credentials to .env:
 
 ```
-NUVO_PAYMENT_BASE_URL=https://payment.nuvocode.com
+NUVO_PAYMENT_BASE_URL=https://api.sample-payment.com
 NUVO_CLIENT_ID=your-client-id
 NUVO_CLIENT_SECRET=your-client-secret
 ```
