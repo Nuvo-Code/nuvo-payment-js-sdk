@@ -6,7 +6,7 @@ A lightweight JavaScript SDK for interacting with the Nuvo Payment API — creat
 ## Installation
 
 ```bash
-npm install @nuvocode/nuvo-payment-sdk
+npm install nuvo-payment-sdk
 ```
 
 
@@ -23,7 +23,7 @@ NUVO_CLIENT_SECRET=your-client-secret
 ## Usage
 
 ```js
-import { NuvoPayment } from "@nuvocode/nuvo-payment-sdk";
+import { NuvoPayment } from "nuvo-payment-sdk";
 
 const nuvo = new NuvoPayment();
 
